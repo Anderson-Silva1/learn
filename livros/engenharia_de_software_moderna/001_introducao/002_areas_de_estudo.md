@@ -61,3 +61,31 @@ São outros exemplos de Requisitos não funcionais:
 * *Capacidade*: ser capaz de armazenar dados de 1 milhão de clientes;
 
 * *Usabilidade*: ter uma versão para deficientes visuais.
+
+## Projeto de Software
+
+Durante a criação de um software são definidas unidades de código, porém apenas a nível de interfaces...
+
+Possuímos 2 tipos de interfaces quando trabalhamos com software:
+
+* Providas
+* Requeridas
+
+### Interfaces Providas
+
+Interfaces providas são aqueles serviços que uma unidade de código torna público para uso pelo resto do sistema
+
+### Interfaces Requeridas
+
+Interfaces requeridas são aquelas interfaces das quais uma unidade de código depende para funcionar, onde também chamamos de dependência.
+
+Exemplo:
+
+```ts
+export class ContaBancaria {
+    private cliente: Cliente
+    private saldo: Number
+}
+```
+
+Nesse cenário, a classe ContaBancaria fornece uma interface para o funcionamento do sistema, logo ela é uma **Interface Provida**... Em contra mão, temos outra classe que está abstrata chamada Cliente, essa logo é uma **Interface Requerida** pois é uma dependência da classe ContaBancaria
