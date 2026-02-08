@@ -89,3 +89,12 @@ export class ContaBancaria {
 ```
 
 Nesse cenário, a classe ContaBancaria fornece uma interface para o funcionamento do sistema, logo ela é uma **Interface Provida**... Em contra mão, temos outra classe que está abstrata chamada Cliente, essa logo é uma **Interface Requerida** pois é uma dependência da classe ContaBancaria
+
+## Construção de Software
+
+O profissional que trabalha nessa área vai ser responsável por colocar a mao na massa e escrever os códigos, tal como tomar decisões importantes como:
+* Qual a estrutura de dados e Algoritmos que serão usados?
+* Quais bibliotecas e Frameworks serão usados?
+* Quais técnicas de tratamento de Exceções?
+* Qual o padrão de nomes, layout e documentação o sistema terá?
+* Quais ferramentas serão usadas? (Isso inclui base de dados, compiladores, IDEs e etc...)
