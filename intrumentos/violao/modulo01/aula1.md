@@ -2,22 +2,26 @@
 
 ## `#` - Sustenido
 
-Eleva uma nota Meio Tom ou 1 Semi-Tom
+Eleva uma nota em meio tom (1 semitom).
 
-## b - Bemol
+## `b` - Bemol
 
-Abaixa uma nota Meio Tom ou 1 Semi-Tom
+Abaixa uma nota em meio tom (1 semitom).
 
-## X - Dobrado Sustenido
+## `𝄪` - Dobrado Sustenido
 
-Eleva uma nota um Tom
+Eleva uma nota em um tom (2 semitons).
 
-## bb - Dobrado Bemol
+## `𝄫` - Dobrado Bemol
 
-Abaixa uma nota um Tom
+Abaixa uma nota em um tom (2 semitons).
 
-## (não tem no meu celular) - Bequadro
+## `♮` - Bequadro
 
-Anula qualquer nota alterada, Dó (Bequadro) = Dó
+Anula qualquer alteração anterior, seja sustenido ou bemol, fazendo a nota voltar à sua forma natural.
 
-> Música é feita de TENSÃO e RELAXAMENTO
+**Exemplo:**
+- Dó sustenido (C#) + Bequadro = Dó natural (C).
+- Si bemol (Bb) + Bequadro = Si natural (B).
+
+> **Música é feita de TENSÃO e RELAXAMENTO.**
