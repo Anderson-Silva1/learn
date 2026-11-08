@@ -1,30 +1,33 @@
-# Escala cromática
+# Escala Cromática
 
-É a escala de todos os Semi-Tons possíveis...
+É a escala formada por todos os intervalos de semitons existentes entre uma nota e sua repetição na oitava seguinte.
 
-dentro nos temos as notas bases:
+Dentro dela, temos as sete notas naturais:
 
-Dó - Ré - Mí - Fà - Sol - Lá - Sí
+Dó – Ré – Mi – Fá – Sol – Lá – Si
 
-na escala cromática teremos assim:
+## Escala cromática usando sustenidos (#)
 
-Usando os Sustenidos
+Dó – Dó# – Ré – Ré# – Mi – Fá – Fá# – Sol – Sol# – Lá – Lá# – Si
 
-Dó - Dó# - Ré - Ré# - Mí - Fà - Fá# - Sol - Sol# - Lá - Lá# - Sí
+## Escala cromática usando bemóis (b)
 
-Usando os Bemóis
+Dó – Réb – Ré – Mib – Mi – Fá – Solb – Sol – Láb – Lá – Sib – Si
 
-Dó - Dób ou Sí - Síb - Lá - Láb - Sol - Solb - Fá - Fáb ou Mí - Míb - Ré - Réb
+## Notas enarmônicas
 
-Temos aí dentro todos os Semi-Tons usando a sequência sustenida e bemol...
+São notas que possuem o mesmo som, mas recebem nomenclaturas diferentes.
 
-Dentro dessa escala temos notas que chamamos de ENARMONICAS, Possuem o mesmo son porém com nomenclaturas diferentes, EXEMPLO
+**Exemplos:**
 
-* Dó# - Réb
-* Ré# - Míb
-* Mí# - Fá
-* Fá# - Solb
-* Sol# - Láb
-* Lá# - Síb
-* Sí# - Dó 
+- Dó# = Réb
+- Ré# = Mib
+- Mi# = Fá
+- Fá# = Solb
+- Sol# = Láb
+- Lá# = Sib
+- Si# = Dó
 
+**Observação:** também existem notas enarmônicas com dobrados sustenidos e dobrados bemóis, mas essas são as equivalências mais utilizadas no estudo inicial.
+
+Assim, podemos representar os mesmos sons utilizando sustenidos ou bemóis, dependendo da tonalidade e da escrita musical.
