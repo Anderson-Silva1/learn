@@ -1,11 +1,17 @@
-# Tons e Semi-Tons ou Meio Tom
+# Tons e Semitons (Meio Tom)
 
-## Semi-tom ou Meio Tom
+## Semitom ou Meio Tom
 
-Menor intervalo que o ouvido humano consegue capitar, equivalente a 1 casa no violão.
+É o menor intervalo utilizado na música ocidental, equivalente a 1 casa no violão.
 
 ## Tom
 
-conjunto de 2 Semi-tons ou Meio Tom, equivalente a duas casas no violão.
+É o intervalo formado por 2 semitons (ou dois meios-tons), equivalente a 2 casas no violão.
 
-> Sabendo disso, conseguimos mudar os TOM (nesse caso é: um conjunto de notas de um campo harmônico) de uma música 
+## Aplicação prática
+
+Sabendo a diferença entre tom e semitom, conseguimos compreender como mudar o TOM de uma música.
+
+**Tom:** nesse contexto, refere-se à tonalidade da música, ou seja, à organização das notas e dos acordes em torno de uma nota principal.
+
+Essa compreensão permite transportar uma música de uma tonalidade para outra, subindo ou descendo os acordes conforme a necessidade.
